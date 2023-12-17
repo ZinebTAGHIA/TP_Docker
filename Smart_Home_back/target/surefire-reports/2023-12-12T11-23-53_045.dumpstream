@@ -1,0 +1,5 @@
+# Created at 2023-12-12T11:23:53.778
+Boot Manifest-JAR contains absolute paths in classpath 'D:\2ITE\S3\JEE\smarthouse-main\Smart_Home_back\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
